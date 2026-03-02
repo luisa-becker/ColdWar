@@ -1,2 +1,2 @@
 # ColdWar
-Pltaforma sobre a Guerra Fria
+Plataforma sobre a Guerra Fria
